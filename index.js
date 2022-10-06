@@ -1,8 +1,8 @@
-let funButton = document.querySelector(#happy);
-funButton.addEventListener("click", () => { 
-    fun  
+let funButton = document.querySelector("#happy");
+funButton.addEventListener("click", ("p") => { 
+    document.write(#happy)
     console.log("fun");
-    
+
     }); 
 
 
