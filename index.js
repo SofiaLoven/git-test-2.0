@@ -1,8 +1,7 @@
-let funButton = document.querySelector(#happy);
+let funButton = document.querySelector("#happy");
+funButton.innerText = "Yellow!";
 funButton.addEventListener("click", () => { 
-    fun  
-    console.log("fun");
-    
+     alert("Yellow är en färg, inte en HÄLSNINGSFRAS!");
     }); 
 
 
